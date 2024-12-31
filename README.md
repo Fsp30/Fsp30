@@ -53,3 +53,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente exploran
 ---
 
 ## 🎄Hoje é Natal, ou seja, sem commit de projeto (talvez valha o mesmo pro ano novo)
+
+---
+
+## Ano novo
+como havia comentado sem projeto hj
