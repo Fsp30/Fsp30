@@ -49,12 +49,3 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente exploran
 - **LinkedIn**: [linkedin.com/in/filipe-de-paula-costa](https://www.linkedin.com/in/filipe-de-paula-costa-4a812a2ab)
 
 
-
----
-
-## 🎄Hoje é Natal, ou seja, sem commit de projeto (talvez valha o mesmo pro ano novo)
-
----
-
-## Ano novo
-como havia comentado sem projeto hj
