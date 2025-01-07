@@ -49,3 +49,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente exploran
 - **LinkedIn**: [linkedin.com/in/filipe-de-paula-costa](https://www.linkedin.com/in/filipe-de-paula-costa-4a812a2ab)
 
 
+
+estou morto, primeiro dia de trabalho, amanhã eu codo algo
+
