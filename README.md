@@ -50,5 +50,4 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente exploran
 
 
 
-estou morto, primeiro dia de trabalho, amanhã eu codo algo
 
