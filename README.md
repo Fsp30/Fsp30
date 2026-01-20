@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Filipe!  
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente explorando as possibilidades do **Next.js** e **Nest.js**. Tenho experiência com diversas linguagens e frameworks, sempre buscando soluções criativas para desafios complexos.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente explorado conceitos mais aprofundados na arquitetura da ferramenta NodeJs. Tenho experiência com diversas linguagens e frameworks, sempre buscando soluções criativas para desafios complexos.
 
 ---
 
