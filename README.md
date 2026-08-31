@@ -37,12 +37,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente explorad
 
 ---
 
-## 🌱 O que estou aprendendo agora
-- **Next.js**: Framework React para desenvolvimento de aplicações server-side.
-- **Nest.js**: Framework para construção de aplicações backend escaláveis.
-
----
-
 ## 💬 Entre em Contato
 - **Email**: depaulacostafilipe@gmail.com
 - **GitHub**: [github.com/Fsp30](https://github.com/Fsp30)
